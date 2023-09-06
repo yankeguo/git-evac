@@ -10,7 +10,7 @@ git add -A
 
 echo "== committing"
 
-git commit --no-edit --allow-empty -am "emergency commit created by git-evac"
+git commit --no-edit --allow-empty --no-gpg-sign -am "emergency commit created by git-evac"
 
 echo "== creating branch ${BRANCH}"
 
