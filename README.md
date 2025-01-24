@@ -24,7 +24,7 @@ So I created `git-evac`.
 **Automatically**
 
 ```shell
-curl -sSL https://raw.githubusercontent.com/guoyk93/git-evac/main/install.sh | sudo bash -s
+curl -sSL https://raw.githubusercontent.com/yankeguo/git-evac/main/install.sh | sudo bash -s
 ```
 
 **Manual**
@@ -32,7 +32,7 @@ curl -sSL https://raw.githubusercontent.com/guoyk93/git-evac/main/install.sh | s
 Get the script `git-evac.sh` and install it to `PATH` directory, `/usr/local/bin` for example
 
 ```shell
-git clone https://github.com/guoyk93/git-evac.git
+git clone https://github.com/yankeguo/git-evac.git
 cd git-evac
 chmod +x git-evac.sh
 sudo cp -f git-evac.sh /usr/local/bin/git-evac

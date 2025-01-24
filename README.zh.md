@@ -22,7 +22,7 @@
 **自动安装**
 
 ```shell
-curl -sSL https://raw.githubusercontent.com/guoyk93/git-evac/main/install.sh | sudo bash -s
+curl -sSL https://raw.githubusercontent.com/yankeguo/git-evac/main/install.sh | sudo bash -s
 ```
 
 **手动安装**
@@ -30,7 +30,7 @@ curl -sSL https://raw.githubusercontent.com/guoyk93/git-evac/main/install.sh | s
 获取脚本 `git-evac.sh` 并将其安装在 `PATH` 目录中, 比如 `/usr/local/bin`
 
 ```shell
-git clone https://github.com/guoyk93/git-evac.git
+git clone https://github.com/yankeguo/git-evac.git
 cd git-evac
 chmod +x git-evac.sh
 sudo cp -f git-evac.sh /usr/local/bin/git-evac
