@@ -15,9 +15,9 @@ So I created `git-evac`.
 
 ## Requirements
 
-* `git` command
-* `date` command for generating branch name
-* `openssl` command for generating branch name
+- `git` command
+- `date` command for generating branch name
+- `openssl` command for generating branch name
 
 ## Installation
 
@@ -48,10 +48,6 @@ It will help you:
 2. Switch to a new branch
 3. Create commit with comments filled
 4. Push to remote server
-
-## Donation
-
-See <https://guoyk.xyz/donation>
 
 ## Credits
 

@@ -13,9 +13,9 @@
 
 ## 依赖项
 
-* `git` 命令
-* `date` 命令，用于生成分支名
-* `openssl` 命令，用于生成分支名
+- `git` 命令
+- `date` 命令，用于生成分支名
+- `openssl` 命令，用于生成分支名
 
 ## 安装
 
@@ -46,10 +46,6 @@ sudo cp -f git-evac.sh /usr/local/bin/git-evac
 2. 切换到全新的分支
 3. 创建提交，并填写评论
 4. 推送分支到远程服务器
-
-## 赞助
-
-访问 <https://guoyk.xyz/donation>
 
 ## 许可证
 
